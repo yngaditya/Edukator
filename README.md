@@ -3,7 +3,7 @@ This is my future ready talent project
 link: https://myprojectedu.z10.web.core.windows.net/
 
 # Problem statement:
-Problem Statement: Current online learning platforms lack easy course access, simple admission processes, fast learning experiences, and affordability, hindering individuals from accessing quality education efficiently and cost-effectively.
+Current online learning platforms lack easy course access, simple admission processes, fast learning experiences, and affordability, hindering individuals from accessing quality education efficiently and cost-effectively.
 Edukator aims to provide an online learning platform that resolves these issues, offering a user-friendly interface, streamlined admissions, interactive learning, and affordable pricing to enhance access and enable rapid, affordable learning for all.
 
 # Project Description:
