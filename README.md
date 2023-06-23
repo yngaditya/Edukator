@@ -16,11 +16,11 @@ Affordability is a core principle of Edukator, enabling individuals from diverse
 By combining easy access, streamlined admissions, fast learning experiences, and cost-effectiveness, Edukator aims to empower learners with the knowledge and skills they need to succeed. Through fostering a collaborative learning environment and breaking down barriers, Edukator strives to make quality education accessible to a global community of learners.
 
 # Technology Used:
-HTML
-CSS
+HTML,
+CSS,
 JavaScript
 
 # Azure Technology:
-Storage Account
-Static web app
+Storage Account,
+Static web app,
 Containers
